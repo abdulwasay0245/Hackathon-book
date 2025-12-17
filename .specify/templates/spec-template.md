@@ -1,8 +1,10 @@
-# Feature Specification: [FEATURE NAME]
+# Feature/Chapter Specification: [FEATURE NAME]
 
 **Feature Branch**: `[###-feature-name]`  
 **Created**: [DATE]  
 **Status**: Draft  
+**Book Module**: [One of: Nervous System, Digital Twin, AI-Robot Brain, VLA]
+**Chapter Alignment**: [Chapter Name/Number]
 **Input**: User description: "$ARGUMENTS"
 
 ## User Scenarios & Testing *(mandatory)*
